@@ -1,6 +1,6 @@
 # SSQRD – Front-End Engineering Portfolio
 
-**Live Site:** //<[your-live-site-here](https://www.ssqrd.co/)>  
+**Live Site:** <[SSQRD](https://www.ssqrd.co/)>  
 **Role:** Front-End Engineer (June 2024 – Present)  
 **Codebase:** Private (this repo documents my work and impact)
 
