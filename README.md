@@ -1,7 +1,7 @@
 # SSQRD – Front-End Engineering Portfolio
 
 **Live Site:** <[SSQRD](https://www.ssqrd.co/)>  
-**Role:** Front-End Engineer (June 2024 – Present)  
+**Role:** Front-End Engineer (May 2024 – Present)  
 **Codebase:** Private (this repo documents my work and impact)
 
 SSQRD is a discovery/e-commerce platform for independent and sustainable fashion/beauty brands.  
