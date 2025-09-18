@@ -20,6 +20,14 @@ I joined the founding team as a Front-End Engineer, collaborating directly with 
 
 ---
 
+## Highlights
+- Responsive design for both desktop and mobile  
+- Brand & price filters with real-time product updates  
+- Watchlist feature using Supabase + Firebase  
+- Scroll-triggered animations and smooth transitions  
+
+---
+
 ## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap/Tailwind  
 - **Backend/Services:** Flask (Python), Supabase, Firebase Authentication, Typesense  
