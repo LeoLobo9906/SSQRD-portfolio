@@ -1,6 +1,6 @@
 # SSQRD – Front-End Engineering Portfolio
 
-**Live site:** https://<your-live-site-here>  
+**Live site:** [https://<your-live-site-here>  ](https://www.ssqrd.co/)
 **Role:** Front-End Engineer (June 2024 – Present) • Codebase private
 
 Built responsive pages and components in **HTML/CSS/JS + Flask/Jinja**.  
